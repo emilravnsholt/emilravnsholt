@@ -15,3 +15,14 @@ My skillset:
 - HTML, XML, JSON
 - Basic Python
 - Wordpress & Shopify (Basic-admin-use - light coding)
+- Photoshop
+
+My talents:
+- Man of order
+- Design & creativity
+- Extrovert
+- Problemsolver (I'm a do'er!)
+
+Education:
+- Selflearned
+- Web Integrator (WebitAarhus, 8000 Aarhus, Denmark)
